@@ -1,0 +1,40 @@
+baseURL = "https://sprejz.de/"
+languageCode = "de-de"
+title = "Hendrik Sprejz"
+theme = "sprejz-dark"
+
+[params]
+description = "Webentwickler, Infrastruktur-Spezialist und Triathlon-Enthusiast"
+author = "Hendrik Sprejz"
+
+# Color scheme
+colorBg = "#15171a"
+colorText = "#f5f5f5"
+colorAccent = "#7fb069"
+colorWarning = "#c4623d"
+
+# Menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Über mich"
+url = "/uber-mich/"
+weight = 2
+
+[[menu.main]]
+name = "Projekte"
+url = "/projekte/"
+weight = 3
+
+[[menu.main]]
+name = "Triathlon"
+url = "/triathlon/"
+weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+url = "/kontakt/"
+weight = 5

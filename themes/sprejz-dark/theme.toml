@@ -1,0 +1,12 @@
+name = "Sprejz Dark"
+license = "MIT"
+licenselink = "https://github.com/sprejz/sprejz-dark/blob/main/LICENSE"
+description = "A dark, minimal theme for personal portfolios"
+homepage = "https://github.com/sprejz/sprejz-dark"
+tags = ["dark", "minimal", "portfolio"]
+features = ["responsive", "dark-mode"]
+min_version = "0.87.0"
+
+[author]
+name = "Hendrik Sprejz"
+homepage = "https://sprejz.de"

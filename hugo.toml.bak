@@ -1,4 +1,4 @@
-baseURL = "https://hendrik.sprejz.de/"
+baseURL = "https://sprejz.de/"
 languageCode = "de-de"
 title = "Hendrik Sprejz"
 theme = "sprejz-dark"
